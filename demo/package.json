@@ -1,0 +1,13 @@
+{
+    "name": "com.sw.demo",
+    "version": "1.0.0",
+    "displayName": "demo",
+    "cordova": {
+        "platforms": [
+            "android"
+        ]
+    },
+    "dependencies": {
+        "cordova-android": "~6.2.3"
+    }
+}
